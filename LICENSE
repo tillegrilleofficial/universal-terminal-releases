@@ -1,0 +1,83 @@
+Universal Terminal — License
+
+Copyright (c) 2026 Tillegrille. All rights reserved.
+
+This software is free to use but it is NOT open source. The source code being
+visible does not grant any rights beyond the ones written below.
+
+
+1. Grant for non-commercial use
+
+You may install, run and use Universal Terminal free of charge for
+non-commercial purposes. Non-commercial means personal use, education,
+research, evaluation, and use by non-profit organisations.
+
+
+2. Commercial use requires an agreement
+
+Any commercial use requires a separate written agreement with the author.
+Commercial use includes, but is not limited to:
+
+  a) use by or on behalf of a company or other for-profit organisation,
+     including internal use in the course of its business;
+  b) use in the development, testing, manufacturing or servicing of products
+     or services that are sold or offered commercially;
+  c) providing the software, or a service based on it, to third parties for
+     a fee;
+  d) redistribution as part of a commercial product or bundle.
+
+To arrange a commercial licence, contact: tillegrilleofficial@gmail.com
+
+
+3. What you may not do without permission
+
+Except as permitted by applicable law, you may not:
+
+  a) sell, rent, sublicense or redistribute the software;
+  b) modify, decompile, reverse engineer or create derivative works;
+  c) remove or alter any copyright, licence or attribution notices;
+  d) use the author's name, pseudonym or branding to promote your own
+     products.
+
+
+4. Third-party components
+
+Universal Terminal includes third-party open-source components. Those
+components remain under their own licences, which are listed in
+THIRD-PARTY-LICENSES.md and reproduced in the app under Info > Legal >
+Open-source licences. The restrictions in sections 2 and 3 above apply to this
+software's own code and NOT to those third-party components; nothing in this
+licence limits any right you have under their licences.
+
+
+5. No warranty
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY AND
+NON-INFRINGEMENT.
+
+
+6. Limitation of liability
+
+The software communicates with external hardware. Sending incorrect commands
+can damage equipment or cause data loss. You are solely responsible for the
+devices you connect to and for the data you send.
+
+To the extent permitted by law, the author is not liable for any damage,
+including damage to connected hardware, loss of data, loss of profit or
+business interruption. This limitation does not apply to intent, gross
+negligence, or injury to life, body or health.
+
+
+7. Termination
+
+This licence terminates automatically if you breach it. Sections 4 to 6 remain
+in effect after termination.
+
+
+8. Trademarks of others
+
+All product and company names mentioned (e.g. ESP32, FTDI, HC-05) are
+trademarks of their respective owners and are used only to describe
+compatibility.
