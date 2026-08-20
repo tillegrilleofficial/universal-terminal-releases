@@ -1,9 +1,9 @@
 {
-  "schema": 1,
-  "windows": {
-    "version": "1.0.2",
-    "url": "https://github.com/tillegrilleofficial/universal-terminal-releases/releases/latest",
-    "notes_de": "Makro-Leiste: Pfeilknöpfe, wenn die Pillen nicht ins Fenster passen, und das Umsortieren per Langdruck arbeitet wieder zuverlässig. Dialoge bleiben auch bei kleinem Fenster bedienbar. Neu: Hinweis, wenn eine neuere Version vorliegt.",
-    "notes_en": "Macro bar: arrow buttons when the pills do not fit the window, and long-press reordering works reliably again. Dialogs stay usable in a small window. New: a notice when a newer version is available."
-  }
+    "schema":  1,
+    "windows":  {
+                    "version":  "1.0.4",
+                    "url":  "https://github.com/tillegrilleofficial/universal-terminal-releases/releases/tag/v1.0.4",
+                    "notes_de":  "Kleine fixes und ui änderungen",
+                    "notes_en":  "small bug fixes and ui changes"
+                }
 }
