@@ -1,9 +1,9 @@
 {
     "schema":  1,
     "windows":  {
-                    "version":  "1.0.4",
-                    "url":  "https://github.com/tillegrilleofficial/universal-terminal-releases/releases/tag/v1.0.4",
-                    "notes_de":  "Kleine fixes und ui änderungen",
-                    "notes_en":  "small bug fixes and ui changes"
+                    "version":  "1.0.5",
+                    "url":  "https://github.com/tillegrilleofficial/universal-terminal-releases/releases/tag/v1.0.5",
+                    "notes_de":  "Schnelleinstellungen hinzugefügt, sowie das manuelle konfigurieren der Tabs.",
+                    "notes_en":  "Quick settings added aswell as the option to deselct tabs."
                 }
 }
