@@ -1,9 +1,9 @@
 {
     "schema":  1,
     "windows":  {
-                    "version":  "1.0.5",
-                    "url":  "https://github.com/tillegrilleofficial/universal-terminal-releases/releases/tag/v1.0.5",
-                    "notes_de":  "Schnelleinstellungen hinzugefügt, sowie das manuelle konfigurieren der Tabs.",
-                    "notes_en":  "Quick settings added aswell as the option to deselct tabs."
+                    "version":  "1.0.6",
+                    "url":  "https://github.com/tillegrilleofficial/universal-terminal-releases/releases/tag/v1.0.6",
+                    "notes_de":  "Makro-Leiste frei sortierbar, Bearbeiten/Löschen per Langdruck (Handy) bzw. Rechtsklick (PC), Makro-Ansichten, mehrzeilige Leiste, Auto-Scroll beim Verschieben und Übertragung von Makros, Plot-Profilen und Byte-Schemas per QR-Code.",
+                    "notes_en":  "Freely sortable macro bar, edit/delete via long press (phone) or right-click (PC), macro views, multi-line bar, auto-scroll while dragging, and transfer of macros, plot profiles and byte schemas via QR code."
                 }
 }
