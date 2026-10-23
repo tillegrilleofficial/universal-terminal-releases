@@ -1,9 +1,15 @@
 {
     "schema":  1,
     "windows":  {
-                    "version":  "1.0.6",
-                    "url":  "https://github.com/tillegrilleofficial/universal-terminal-releases/releases/tag/v1.0.6",
-                    "notes_de":  "Makro-Leiste frei sortierbar, Bearbeiten/Löschen per Langdruck (Handy) bzw. Rechtsklick (PC), Makro-Ansichten, mehrzeilige Leiste, Auto-Scroll beim Verschieben und Übertragung von Makros, Plot-Profilen und Byte-Schemas per QR-Code.",
-                    "notes_en":  "Freely sortable macro bar, edit/delete via long press (phone) or right-click (PC), macro views, multi-line bar, auto-scroll while dragging, and transfer of macros, plot profiles and byte schemas via QR code."
+                    "version":  "1.0.7",
+                    "url":  "https://github.com/tillegrilleofficial/universal-terminal-releases/releases/tag/v1.0.7",
+                    "notes_de":  "Einzelne Makros lassen sich exportieren. Die Android-Version liegt jetzt als APK im Release und sucht selbst nach Updates.",
+                    "notes_en":  "Individual macros can be exported. The Android version is now attached to the release as an APK and checks for updates itself."
+                },
+    "android":  {
+                    "version":  "1.0.7",
+                    "url":  "https://github.com/tillegrilleofficial/universal-terminal-releases/releases/tag/v1.0.7",
+                    "notes_de":  "Einzelne Makros lassen sich exportieren. Die Android-Version liegt jetzt als APK im Release und sucht selbst nach Updates.",
+                    "notes_en":  "Individual macros can be exported. The Android version is now attached to the release as an APK and checks for updates itself."
                 }
 }
